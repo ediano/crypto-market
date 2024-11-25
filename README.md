@@ -1,2 +1,1 @@
-# crypto-market
-Crypto Market
+# Crypto Market
